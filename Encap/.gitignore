@@ -1,0 +1,6 @@
+# Ignore the database file
+Student.db
+
+# Ignore compiled files
+target/
+*.class
